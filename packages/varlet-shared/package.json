@@ -37,7 +37,7 @@
     "dev": "tsup src/index.ts --format esm --out-dir=lib --watch --dts"
   },
   "dependencies": {
-    "rattail": "1.0.17"
+    "rattail": "1.0.19"
   },
   "devDependencies": {
     "@types/node": "^18.7.18",
